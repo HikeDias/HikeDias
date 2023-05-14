@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🍃 About Me:
 Sou José Henrique Dias ou (Hike) Em 2023, comecei a estudar programação, apesar de não ser simples. Comecei com Front-End, aprendendo HTML e CSS. Atualmente, estou concentrado em Python.
 
 
